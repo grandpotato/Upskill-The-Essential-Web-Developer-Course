@@ -1,8 +1,22 @@
 h1 {
-	color: red;
-	border: 1px solid red;
+	font-size: 40px;
+	font-family: 'Baloo Bhaijaan', cursive;
+	text-align: center;
+	text-decoration: underline;
+	padding: 20px;
 }
 
-h2 {
-	color:blue;
+li {
+	list-style-type: none;
+	float: left;
+	margin-right: 10px
+
+	 blahhh 
+}
+
+div {
+	border: 1px solid black;
+	border-radius: 20px;
+	box-shadow: 50px 100px 10px gray;
+
 }
